@@ -1,8 +1,15 @@
-<h3 title="hehehe"> Hey 👋, I'm Jingkai!</h3>
+<h3 title="hehehe"> Hi there 👋, I'm Jingkai Hong!</h3>
 
+Here is my personal website:
 <a href="https://jingkaihong.netlify.app/">
-  <img align="left" alt="Jingkai's Website" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" />
+  Jingkai Hong
+  <img alt="Jingkai's Website" width="24px"
+       src="https://static.thenounproject.com/png/1378900-200.png" 
+       style="vertical-align: middle; margin-left: 6px;" />
 </a>
+
+
+
 <a href="https://www.linkedin.com/in/jingkaihong">
   <img align="left" alt="Jingkai's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
