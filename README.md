@@ -1,7 +1,6 @@
 <h3 title="hehehe"> Hi there 👋, I'm Jingkai Hong!</h3>
 
 **About me**
-- 👋 Hi, I’m @jingkai-hong
 - 🌱 I’m currently in China🇨🇳
 - 🧠 Interest in Cognitive Psychology, Eye Tracking, and Consumer Behaviour.
 - 📫 How to reach me: jingkai.hong[at]outlook.com
